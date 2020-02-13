@@ -1,3 +1,4 @@
+#String multiplier(random)
 def play():
     ply=input("Would you like to run the programme(y/n) ?:")
     if ply=="y" or ply=="Y":
